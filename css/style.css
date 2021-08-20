@@ -1,0 +1,63 @@
+.navbar {
+    background-color: rgb(49, 41, 75);
+}
+
+.margin {
+    padding-top: 45px;
+    padding-bottom: 30px;
+}
+
+.imglogo {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.navbar-nav {
+    color: white;
+}
+
+.rounded-circle {
+    padding: 30px;
+}
+
+.quemsomos {
+    background-color: rgb(121, 121, 207);
+    color: white;
+}
+
+.estilofontequemsomos {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.textoquemsomos {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+
+.parceiros {
+    background-color: rgb(99, 99, 185);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.servicos {
+    background-color: rgb(66, 56, 119);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.col-lg-4 {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.rodape {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+}
